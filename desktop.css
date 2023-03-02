@@ -1,0 +1,141 @@
+@media (min-width: 1440px) {
+  body {
+    background-image: url("./assets/bg-main-desktop.png") !important;
+    background-position: top -240px right -170px !important;
+    display: block;
+  }
+
+  header {
+    width: 1015px;
+    margin-top: 62px;
+    margin-left: 165px;
+    margin-bottom: 321px;
+  }
+
+  .equalizer-logo {
+    margin-bottom: 127px;
+  }
+
+  .header-text {
+    width: 100%;
+  }
+
+  h1 {
+    width: 100%;
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -1px;
+    margin-bottom: 40px;
+  }
+
+  .header-p {
+    width: 825px;
+    font-size: 20px;
+    line-height: 34px;
+  }
+
+  .tablet-pattern {
+    width: 312px;
+    height: 468px;
+    top: -40px;
+    right: 0;
+  }
+
+  main {
+    margin-bottom: 202px;
+  }
+
+  .main-container {
+    width: 1110px;
+  }
+
+  .patern {
+    width: 312px;
+    height: 468px;
+    left: 336px;
+    top: -40px;
+  }
+
+  .smartphone-photo {
+    width: 312px;
+    height: 642px;
+    top: -213px;
+    left: 102px;
+  }
+
+  .child-container {
+    width: 446px;
+    height: 625px;
+    border-radius: 12px;
+    top: 90px;
+    right: 95px;
+  }
+
+  .child-text {
+    width: 333px;
+    height: 244px;
+    margin-bottom: 39px;
+  }
+
+  h2 {
+    font-size: 40px;
+    line-height: 52px;
+    margin-bottom: 22px;
+  }
+
+  .child-p {
+    font-size: 20px;
+    line-height: 34px;
+  }
+
+  .purchase-container {
+    width: 333px;
+    height: 236px;
+    margin-left: 0px;
+  }
+
+  .price-container {
+    margin-bottom: 46px;
+  }
+
+  .ios-download:hover {
+    background: #66e2dc;
+    cursor: pointer;
+  }
+
+  .android-download:hover {
+    background: #ffb964;
+    cursor: pointer;
+  }
+
+  .footer-summary {
+    margin-bottom: 91px;
+    width: 1110px;
+    height: 79px;
+    align-items: center;
+  }
+
+  .footer-text {
+    display: flex;
+    width: 651px;
+  }
+
+  .social-logos {
+    margin-top: 0px;
+  }
+
+  .facebook-logo:hover path {
+    fill: #fa7453;
+    cursor: pointer;
+  }
+
+  .instagram-logo:hover path {
+    fill: #fa7453;
+    cursor: pointer;
+  }
+
+  .twitter-logo:hover path {
+    fill: #fa7453;
+    cursor: pointer;
+  }
+}
